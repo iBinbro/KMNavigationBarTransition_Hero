@@ -1,0 +1,6 @@
+framework module Pods_KMNavigationBarTransition_Hero {
+  umbrella header "Pods-KMNavigationBarTransition_Hero-umbrella.h"
+
+  export *
+  module * { export * }
+}

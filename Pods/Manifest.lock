@@ -1,0 +1,20 @@
+PODS:
+  - Hero (1.5.0)
+  - KMNavigationBarTransition (1.1.8)
+
+DEPENDENCIES:
+  - Hero (= 1.5.0)
+  - KMNavigationBarTransition (= 1.1.8)
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - KMNavigationBarTransition
+
+SPEC CHECKSUMS:
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  KMNavigationBarTransition: 7ee1a05ff758bce9258845a803f7a8b00585bd58
+
+PODFILE CHECKSUM: a131b8d1a85e3395256d0c3a45692bffde91951b
+
+COCOAPODS: 1.10.0.beta.1
